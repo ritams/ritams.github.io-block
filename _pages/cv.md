@@ -29,12 +29,19 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+  * Python
+  * C
+  * C++
+  * Fortran
+  * JavaScript
+* Markup Languages:
+  * Latex
+  * HTML
+* Programming Skills:
+  * Object Oriented Programming
+  * Parallel Prgramming using OpenMP
+  * Data Structure and Algorithms
 
 <!-- Publications
 ======
@@ -50,9 +57,16 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+<!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+  * Teaching Assistant for:
+    * Nonlinear Dynamics (Spring 2021), Course coordinator: Prof. M. S. Santhanam
+    * Computational Physics (Fall 2021), Course coordinators: Prof. Apratim Chatterji and Prof. Prasenjit Ghosh
+  
+  * Lecturer:
+    * Mathematical Methods in Physics (Fall 2021), at Farguson college, Pune
+  
   
 <!-- Service and leadership
 ======
