@@ -83,13 +83,13 @@ author:
   name             : "Ritam Pal"
   avatar           : "113DB67B-9A9B-4670-AA8D-A5754C5F2B22_1_105_c.jpeg
 "
-  bio              : "I am a Ph.D. student at IISER Pune"
+  bio              : "I am a Ph.D. student at IISER Pune. My research is supported by PMRF"
   location         : "Pune"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+#   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ritam-Pal-3"
   uri              :
   bitbucket        :
   codepen          :
