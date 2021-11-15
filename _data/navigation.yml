@@ -1,9 +1,9 @@
 # main links links
 main:
-#   - title: "Publications"
-#     url: /publications/
-    - title: Research Interests
-      url: /research_interests
+  - title: "Research"
+    url: /publications/
+#     - title: Research Interests
+#       url: /research_interests/
 
 #   - title: "Talks"
 #     url: /talks/    
