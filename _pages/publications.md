@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 
@@ -38,7 +38,7 @@ Extreme Events
 
 Extreme  events,  defined  as  the  events  whose  numerical  values  differ  significantly  from  the  values  of  typical events and exceeds a predefined threshold, are ubiquitous in natural or man made systems.  From earthquake,drought, flood to power black out and stock market crash, extreme events often disrupt the functionality of the system.  And due to this huge applicability in real world systems, extreme value statistics have gained a lot of interest among researchers.
 
-Along with other questions researchers are often interested in the probability distribution of spacing $(S_i=\frac{E_{i+1}}{E_i})$  between  two  consecutive  extreme  events  and  the  probability  distribution  spacing  ratios  $(r_i=\fract{S_{i+1}}{S_i})$.Though for uncorrelated time series these probability distributions can be calculated analytically, obtaining an analytical expressions for these distribution in the case of correlated time series is difficult.  In 2008 Santhanamet al. have calculated an analytical expression for the spacing distribution which holds good for large spacing,but there is no such expression for the distribution of spacing ratios.
+Along with other questions researchers are often interested in the probability distribution of spacing $(S_i=\frac{E_{i+1}}{E_i})$  between  two  consecutive  extreme  events  and  the  probability  distribution  spacing  ratios  $(r_i=\frac{S_{i+1}}{S_i})$.Though for uncorrelated time series these probability distributions can be calculated analytically, obtaining an analytical expressions for these distribution in the case of correlated time series is difficult.  In 2008 Santhanamet al. have calculated an analytical expression for the spacing distribution which holds good for large spacing,but there is no such expression for the distribution of spacing ratios.
 
 Spacing Ratio
 ---
@@ -46,5 +46,5 @@ Starting from a fractional Brownian motion (or fractional Ito motion) we are try
 
 Thomae's Function
 ----
-As the time series data points equispaced in time, the spacing between two extreme events is a integer multiple of a constant time interval,  hence the spacing ratios are rationals.  While using uniform binning to plot the distribution of spacing ratio we have noticed a fractal like behaviour near $r= 1$.  We have modified the definition of spacing ratio to be $( \tilde{r}_i=\frac{S_{i+1}}{S_i+S_{i+1}})$ such that  $\tilde{r}$ takes rational values from $(0,1)$.  Surprisingly, we find that the distribution resembles the Thomae’s function.  We are also trying to find out if there is any relation between the fractal dimension of the distribution and the correlation exponent of the time series.
+As the time series data points equispaced in time, the spacing between two extreme events is a integer multiple of a constant time interval,  hence the spacing ratios are rationals.  While using uniform binning to plot the distribution of spacing ratio we have noticed a fractal like behaviour near $r= 1$.  We have modified the definition of spacing ratio to be $({r}_i=\frac{S_{i+1}}{S_i+S_{i+1}})$ such that  ${r}$ takes rational values from $(0,1)$.  Surprisingly, we find that the distribution resembles the Thomae’s function.  We are also trying to find out if there is any relation between the fractal dimension of the distribution and the correlation exponent of the time series.
 
